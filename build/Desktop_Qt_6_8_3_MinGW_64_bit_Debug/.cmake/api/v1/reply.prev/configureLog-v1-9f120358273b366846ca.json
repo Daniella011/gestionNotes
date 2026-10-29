@@ -1,0 +1,15 @@
+{
+	"eventKindNames" : 
+	[
+		"message-v1",
+		"try_compile-v1",
+		"try_run-v1"
+	],
+	"kind" : "configureLog",
+	"path" : "C:/Users/qq/Documents/gestionNotes/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/CMakeConfigureLog.yaml",
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
